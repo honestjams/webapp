@@ -1,0 +1,24 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "testing web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honestjams/webapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honestjams/webapp/issues"
+  },
+  "homepage": "https://github.com/honestjams/webapp#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
